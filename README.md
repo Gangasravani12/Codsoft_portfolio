@@ -1,6 +1,6 @@
 # codsoft_portfolio
 
-#PORTFOLIO
+# PORTFOLIO
 
                                                       
   The provided code appears to be an HTML document that represents a portfolio website. It includes sections such as navigation, header, about, skills, projects, and contact. Here's a breakdown of the different sections and their corresponding elements:
